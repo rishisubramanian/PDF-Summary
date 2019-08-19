@@ -1,0 +1,3 @@
+A small utility to summarize PDF files. Give it a file, and it will return the top 5 (or however many you want).
+
+It uses the [LexRank](https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume22/erkan04a-html/erkan04a.html) algorithm to rank the sentences and returns the top few. If you're familiar with Reddit's [autotldr](https://old.reddit.com/r/autotldr/) bot, you'll be familiar with how this works.
